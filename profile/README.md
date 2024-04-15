@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Open Source at Ignition Aerospace](https://github.com/ignition-aerospace/.github/blob/main/images/ignition_aerospace_cover.jpg) 
+![Open Source at Ignition Aerospace](https://github.com/ignition-aerospace/.github/blob/main/images/elara_aerospace_cover.png) 
 
 ## Get Involved 🛠️
 
